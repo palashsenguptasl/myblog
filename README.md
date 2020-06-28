@@ -1,1 +1,1 @@
-# myblog
+I have created this blog website using HTML5, CSS3, Bootstrap, Javascript and GIT
