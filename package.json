@@ -1,0 +1,21 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "A blog website where people can post articles and customers can benefit from the content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bootstrap",
+    "HTML/CSS",
+    "Javascript",
+    "GitHub"
+  ],
+  "author": "Palash Sengupta",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
